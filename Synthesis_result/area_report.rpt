@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : round_robin_arbiter
+Version: T-2022.03-SP5
+Date   : Tue Oct  1 12:43:30 2024
+****************************************
+
+Library(s) Used:
+
+    saed32rvt_tt1p05v25c (File: /home/student/cadWorkDir/synopsys/1BM21EC122/Course_work/EDK/saed32rvt/saed32rvt_tt1p05v25c.db)
+
+Number of ports:                           10
+Number of nets:                            26
+Number of cells:                           19
+Number of combinational cells:             11
+Number of sequential cells:                 8
+Number of macros/black boxes:               0
+Number of buf/inv:                          0
+Number of references:                       7
+
+Combinational area:                 24.906113
+Buf/Inv area:                        0.000000
+Noncombinational area:              56.928257
+Macro/Black Box area:                0.000000
+Net Interconnect area:               5.687444
+
+Total cell area:                    81.834370
+Total area:                         87.521813
+1
